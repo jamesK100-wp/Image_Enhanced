@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+input/
+processed/
+*.sqlite3
+.env
